@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    background-color: rgb(0, 255, 68);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1:hover {
+    background-color: aquamarine;
+}
+
+#start-game-btn {
+    margin: 0% 50%;
+    border-width: 2px;
+    padding: 2px;
+    background-color: rgb(143, 44, 44);
+    color: aliceblue;
+}
+
+#start-game-btn:hover {
+    background-color: rgb(43, 0, 255)
+}
